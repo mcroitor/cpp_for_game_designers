@@ -1,0 +1,2607 @@
+{
+    "11k001": {
+        "name": "11k001",
+        "questiontext": "Who is the creator of the C++ language?",
+        "answers": [
+            "Björn Stroustrup",
+            "Ken Thompson",
+            "Dennis Ritchie",
+            "Rob Pike"
+        ]
+    },
+    "11k002": {
+        "name": "11k002",
+        "questiontext": "Which language formed the basis of the C++ language?",
+        "answers": [
+            "C",
+            "Ada",
+            "Fortran",
+            "Pascal"
+        ]
+    },
+    "11k003": {
+        "name": "11k003",
+        "questiontext": "In what year was the first C++ language standard adopted?",
+        "answers": [
+            "1998",
+            "1997",
+            "1999",
+            "2000"
+        ]
+    },
+    "11k004": {
+        "name": "11k004",
+        "questiontext": "Which of the listed compilers does not offer C++ compilation?",
+        "answers": [
+            "node",
+            "gcc",
+            "msvc",
+            "llvm"
+        ]
+    },
+    "11k005": {
+        "name": "11k005",
+        "questiontext": "Which of the development environments requires project configuration when starting to work with a C++ project?",
+        "answers": [
+            "Visual Studio Code",
+            "Visual Studio",
+            "CLion",
+            "Code::Blocks"
+        ]
+    },
+    "12k021": {
+        "name": "12k021",
+        "questiontext": "Declare a variable `age` of type `unsigned char` and assign it the value `21`.",
+        "answers": [
+            ""
+        ]
+    },
+    "12k022": {
+        "name": "12k022",
+        "questiontext": "Declare a variable `health` of type `size_t` and assign it the value `100`.",
+        "answers": [
+            ""
+        ]
+    },
+    "12k023": {
+        "name": "12k023",
+        "questiontext": "Declare a variable `damage` of type `float` and assign it the value `1.3`.",
+        "answers": [
+            ""
+        ]
+    },
+    "12k024": {
+        "name": "12k024",
+        "questiontext": "Declare a variable `name` of type `std::string` and assign it the value `\"John\"`.",
+        "answers": [
+            ""
+        ]
+    },
+    "12k025": {
+        "name": "12k025",
+        "questiontext": "Declare a function `purposeOfLife` that returns the integer value `42`.",
+        "answers": [
+            ""
+        ]
+    },
+    "12k026": {
+        "name": "12k026",
+        "questiontext": "Declare a function `proxy` that takes a number of type `double` as a parameter and returns this number.",
+        "answers": [
+            ""
+        ]
+    },
+    "12k027": {
+        "name": "12k027",
+        "questiontext": "Declare a function `sum` that takes two parameters of type `int` and returns their sum.",
+        "answers": [
+            ""
+        ]
+    },
+    "12k028": {
+        "name": "12k028",
+        "questiontext": "Declare a constant `NR_COLUMNS` of type `size_t` equal to 80.",
+        "answers": [
+            ""
+        ]
+    },
+    "12k001": {
+        "name": "12k001",
+        "questiontext": "What do constants define in a program?",
+        "answers": [
+            "data",
+            "variables",
+            "algorithms",
+            "logic"
+        ]
+    },
+    "12k002": {
+        "name": "12k002",
+        "questiontext": "Reserved words in the language, intended for describing programs:",
+        "answers": [
+            "keywords",
+            "special symbols",
+            "comments",
+            "identifiers"
+        ]
+    },
+    "12k003": {
+        "name": "12k003",
+        "questiontext": "Blocks of text not translated into binary code, intended to explain the program code:",
+        "answers": [
+            "comments",
+            "keywords",
+            "special symbols",
+            "identifiers"
+        ]
+    },
+    "12k004": {
+        "name": "12k004",
+        "questiontext": "Punctuation symbols that have a special meaning in the program, depending on the context:",
+        "answers": [
+            "special symbols",
+            "comments",
+            "keywords",
+            "identifiers"
+        ]
+    },
+    "12k005": {
+        "name": "12k005",
+        "questiontext": "Names of data \"repositories\", constants, data types, and algorithms:",
+        "answers": [
+            "identifiers",
+            "special symbols",
+            "comments",
+            "keywords"
+        ]
+    },
+    "12k006": {
+        "name": "12k006",
+        "questiontext": "Which of the specified identifiers is incorrect?",
+        "answers": [
+            "`12`",
+            "`__a_1__`",
+            "`unknownIdentifier`",
+            "`BAD_IDENTIFIER_1`"
+        ]
+    },
+    "12k007": {
+        "name": "12k007",
+        "questiontext": "The keyword that defines the exit from the loop:",
+        "answers": [
+            "`break`",
+            "`return`",
+            "`continue`",
+            "`exit`"
+        ]
+    },
+    "12k008": {
+        "name": "12k008",
+        "questiontext": "The keyword that defines the continuation of the loop, skipping instructions to the end of the loop block:",
+        "answers": [
+            "`continue`",
+            "`break`",
+            "`goto`",
+            "`skip`"
+        ]
+    },
+    "12k009": {
+        "name": "12k009",
+        "questiontext": "The keyword used to create a type alias:",
+        "answers": [
+            "`typedef`",
+            "`alias`",
+            "`enum`",
+            "`reference`"
+        ]
+    },
+    "12k010": {
+        "name": "12k010",
+        "questiontext": "The keyword used to allocate memory for an object:",
+        "answers": [
+            "`new`",
+            "`create`",
+            "`allocate`",
+            "`set`"
+        ]
+    },
+    "12k011": {
+        "name": "12k011",
+        "questiontext": "The keyword used to deallocate memory:",
+        "answers": [
+            "`delete`",
+            "`remove`",
+            "`destroy`",
+            "`unset`"
+        ]
+    },
+    "12k012": {
+        "name": "12k012",
+        "questiontext": "The keyword used to define a named set of variable, function, data type names, etc.",
+        "answers": [
+            "`namespace`",
+            "`using`",
+            "`import`",
+            "`nameset`"
+        ]
+    },
+    "12k013": {
+        "name": "12k013",
+        "questiontext": "Integer type variables are defined by the keyword:",
+        "answers": [
+            "`int`",
+            "`float`",
+            "`Integer`",
+            "`Number`"
+        ]
+    },
+    "12k014": {
+        "name": "12k014",
+        "questiontext": "Real type variables are defined by the keyword:",
+        "answers": [
+            "`float`",
+            "`int`",
+            "`Real`",
+            "`Number`"
+        ]
+    },
+    "12k015": {
+        "name": "12k015",
+        "questiontext": "Character type variables are defined by the keyword:",
+        "answers": [
+            "`char`",
+            "`int`",
+            "`Symbol`",
+            "`unicode`"
+        ]
+    },
+    "12k016": {
+        "name": "12k016",
+        "questiontext": "In C++, the entry point of the program is called:",
+        "answers": [
+            "function `main`",
+            "the first line of the program",
+            "the executable file",
+            "the base class of the inheritance hierarchy"
+        ]
+    },
+    "12k017": {
+        "name": "12k017",
+        "questiontext": "Which special symbol is used to declare a pointer to a specific data type in C / C++?",
+        "answers": [
+            "`*`",
+            "`&`",
+            "`^`",
+            "`#`"
+        ]
+    },
+    "12k018": {
+        "name": "12k018",
+        "questiontext": "The basic block of programming that allows repeating a set of commands",
+        "answers": [
+            "loop",
+            "branching",
+            "sequence",
+            "data block"
+        ]
+    },
+    "12k019": {
+        "name": "12k019",
+        "questiontext": "A logical type variable occupies in memory",
+        "answers": [
+            "1 byte",
+            "1 bit",
+            "4 bytes",
+            "the same as an integer type variable"
+        ]
+    },
+    "12k020": {
+        "name": "12k020",
+        "questiontext": "The basic block of programming that allows executing certain code depending on the condition",
+        "answers": [
+            "branching",
+            "loop",
+            "sequence",
+            "data block"
+        ]
+    },
+    "13k018": {
+        "name": "13k018",
+        "questiontext": "Define the data type `duration_t`, equivalent to the type `unsigned long long`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13k019": {
+        "name": "13k019",
+        "questiontext": "Define the data type `distance_t`, equivalent to the type `double`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13k020": {
+        "name": "13k020",
+        "questiontext": "Define the data type `age_t`, equivalent to the type `unsigned char`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13k021": {
+        "name": "13k021",
+        "questiontext": "Define the data type `color_t`, which can take values `white`, `black`, `red`, `green`, and `blue`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13k022": {
+        "name": "13k022",
+        "questiontext": "Define the data type `direction_t`, which can take values `left`, `right`, `top`, and `bottom`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13k023": {
+        "name": "13k023",
+        "questiontext": "Define the data type `ButtonState`, which can take values `Released`, `Pressed`, `Clicked`, and `Selected`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13k024": {
+        "name": "13k024",
+        "questiontext": "Define the data type `Point` - a point in the plane, with integer (`int`) coordinates `x`, `y`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13k025": {
+        "name": "13k025",
+        "questiontext": "Define the data structure `Vector` - a vector in space, with integer (`int`) coordinates `x`, `y`, and `z`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13k026": {
+        "name": "13k026",
+        "questiontext": "Define the data structure `Person` with fields \n\n- `name` of type `string`\n- `health` of type  `size_t`\n- `power` of type `size_t`",
+        "answers": [
+            ""
+        ]
+    },
+    "13k001": {
+        "name": "13k001",
+        "questiontext": "A type alias is defined by the keyword",
+        "answers": [
+            "`typedef`",
+            "`enum`",
+            "`alias`",
+            "`class`"
+        ]
+    },
+    "13k002": {
+        "name": "13k002",
+        "questiontext": "A user-defined data type, defined as a set of integer constants, is called",
+        "answers": [
+            "enumeration",
+            "class",
+            "structure",
+            "constant"
+        ]
+    },
+    "13k003": {
+        "name": "13k003",
+        "questiontext": "Access to the values of an enumerated type is done using the access operator",
+        "answers": [
+            "`::`",
+            "`.`",
+            "`->`",
+            "`&`"
+        ]
+    },
+    "13k004": {
+        "name": "13k004",
+        "questiontext": "The value of the first constant of the enumerated type",
+        "answers": [
+            "defaults to `0`",
+            "defaults to `1`",
+            "must be explicitly specified",
+            "defaults to `null`"
+        ]
+    },
+    "13k005": {
+        "name": "13k005",
+        "questiontext": "A user-defined data type that semantically combines the values of basic types or other structures",
+        "answers": [
+            "structure",
+            "enumeration",
+            "class",
+            "constant"
+        ]
+    },
+    "13k006": {
+        "name": "13k006",
+        "questiontext": "Access to the fields of a structure object is done using the access operator",
+        "answers": [
+            "`.`",
+            "`::`",
+            "`->`",
+            "`&`"
+        ]
+    },
+    "13k007": {
+        "name": "13k007",
+        "questiontext": "A user-defined data type that semantically combines data and operations on that data",
+        "answers": [
+            "class",
+            "structure",
+            "enumeration",
+            "constant"
+        ]
+    },
+    "13k008": {
+        "name": "13k008",
+        "questiontext": "Which of the keywords does not define access rights in the class?",
+        "answers": [
+            "`static`",
+            "`public`",
+            "`private`",
+            "`protected`"
+        ]
+    },
+    "13k009": {
+        "name": "13k009",
+        "questiontext": "Which of the keywords opens access to the fields and methods of the class?",
+        "answers": [
+            "`public`",
+            "`static`",
+            "`private`",
+            "`protected`"
+        ]
+    },
+    "13k010": {
+        "name": "13k010",
+        "questiontext": "Which of the keywords closes access to the fields and methods of the class?",
+        "answers": [
+            "`private`",
+            "`static`",
+            "`public`",
+            "`protected`"
+        ]
+    },
+    "13k011": {
+        "name": "13k011",
+        "questiontext": "Which of the keywords keeps access to the fields and methods of the class open only for derived classes?",
+        "answers": [
+            "`protected`",
+            "`static`",
+            "`public`",
+            "`private`"
+        ]
+    },
+    "13k012": {
+        "name": "13k012",
+        "questiontext": "Variables declared in a class are called",
+        "answers": [
+            "fields",
+            "variables",
+            "objects",
+            "methods"
+        ]
+    },
+    "13k013": {
+        "name": "13k013",
+        "questiontext": "Functions declared in a class are called",
+        "answers": [
+            "methods",
+            "fields",
+            "functions",
+            "objects"
+        ]
+    },
+    "13k014": {
+        "name": "13k014",
+        "questiontext": "To indicate that a field or function belongs to the current object, the keyword is used",
+        "answers": [
+            "`this`",
+            "`self`",
+            "`object`",
+            "`class`"
+        ]
+    },
+    "13k015": {
+        "name": "13k015",
+        "questiontext": "The _enumeration_ type is",
+        "answers": [
+            "a user-defined data type, defined as a set of integer constants",
+            "a type alias",
+            "a user-defined data type that semantically combines data and operations on that data",
+            "a user-defined data type that semantically combines the values of basic types or other structures"
+        ]
+    },
+    "13k016": {
+        "name": "13k016",
+        "questiontext": "The _structure_ type is",
+        "answers": [
+            "a user-defined data type that semantically combines the values of basic types or other structures",
+            "a user-defined data type, defined as a set of integer constants",
+            "a type alias",
+            "a user-defined data type that semantically combines data and operations on that data"
+        ]
+    },
+    "13k017": {
+        "name": "13k017",
+        "questiontext": "The _class_ type is",
+        "answers": [
+            "a user-defined data type that semantically combines data and operations on that data",
+            "a user-defined data type that semantically combines the values of basic types or other structures",
+            "a user-defined data type, defined as a set of integer constants",
+            "a type alias"
+        ]
+    },
+    "14k001": {
+        "name": "14k001",
+        "questiontext": "A user-defined data type that represents an abstraction of real-world objects, including a set of data describing these objects, as well as functions describing the behavior of these objects",
+        "answers": [
+            "Class",
+            "Object",
+            "Interface",
+            "Structure"
+        ]
+    },
+    "14k002": {
+        "name": "14k002",
+        "questiontext": "In C++, the difference between a class and a structure",
+        "answers": [
+            "in a class, access is closed by default, in a structure - open",
+            "a structure does not contain methods",
+            "exclusively in the keyword used in the declaration",
+            "an object of a class is created by allocating memory (`new` operator), an object of a structure is created statically"
+        ]
+    },
+    "14k003": {
+        "name": "14k003",
+        "questiontext": "A variable of a class, structure, or other data type",
+        "answers": [
+            "object",
+            "constant",
+            "singleton",
+            "adapter"
+        ]
+    },
+    "14k004": {
+        "name": "14k004",
+        "questiontext": "The set of open properties of a class, its methods",
+        "answers": [
+            "Class interface",
+            "Class",
+            "Class object",
+            "Structure"
+        ]
+    },
+    "14k005": {
+        "name": "14k005",
+        "questiontext": "The use of only those characteristics of a real object that are necessary for its use in solving the problem is called",
+        "answers": [
+            "data abstraction",
+            "encapsulation",
+            "inheritance",
+            "polymorphism"
+        ]
+    },
+    "14k006": {
+        "name": "14k006",
+        "questiontext": "The isolation of elements that determine the structure (data) and behavior (methods) is called",
+        "answers": [
+            "encapsulation",
+            "data abstraction",
+            "inheritance",
+            "polymorphism"
+        ]
+    },
+    "14k007": {
+        "name": "14k007",
+        "questiontext": "The mechanism that allows using the same function with data of different types",
+        "answers": [
+            "polymorphism",
+            "encapsulation",
+            "data abstraction",
+            "inheritance"
+        ]
+    },
+    "14k008": {
+        "name": "14k008",
+        "questiontext": "The reuse of the properties of one class by another class is called",
+        "answers": [
+            "inheritance",
+            "encapsulation",
+            "data abstraction",
+            "polymorphism"
+        ]
+    },
+    "14k009": {
+        "name": "14k009",
+        "questiontext": "A method that can be overridden in a derived class is called",
+        "answers": [
+            "virtual",
+            "child",
+            "abstract",
+            "polymorphic"
+        ]
+    },
+    "14k010": {
+        "name": "14k010",
+        "questiontext": "A virtual function of a class without an implementation is called",
+        "answers": [
+            "abstract method",
+            "child method",
+            "parent method",
+            "interface"
+        ]
+    },
+    "14k011": {
+        "name": "14k011",
+        "questiontext": "A class is called abstract if",
+        "answers": [
+            "it has at least one pure virtual function",
+            "it does not contain fields",
+            "it implements data abstraction",
+            "it is named `Abstract`"
+        ]
+    },
+    "14k012": {
+        "name": "14k012",
+        "questiontext": "A constructor of a class without parameters is called",
+        "answers": [
+            "default constructor",
+            "parameterized constructor",
+            "copy constructor",
+            "initializer"
+        ]
+    },
+    "14k013": {
+        "name": "14k013",
+        "questiontext": "A constructor of a class that takes as a parameter an object of the same type is called",
+        "answers": [
+            "copy constructor",
+            "parameterized constructor",
+            "default constructor",
+            "initializer"
+        ]
+    },
+    "14k014": {
+        "name": "14k014",
+        "questiontext": "A special function of a class, matching the class name and used to create class objects, is called",
+        "answers": [
+            "constructor",
+            "destructor",
+            "creator",
+            "allocator"
+        ]
+    },
+    "14k015": {
+        "name": "14k015",
+        "questiontext": "A special function of a class, used for correctly freeing memory when destroying a class object",
+        "answers": [
+            "destructor",
+            "constructor",
+            "garbage collector",
+            "terminator"
+        ]
+    },
+    "14k016": {
+        "name": "14k016",
+        "questiontext": "A class that inherits the properties of another class is called",
+        "answers": [
+            "child",
+            "parent",
+            "virtual",
+            "abstract"
+        ]
+    },
+    "14k017": {
+        "name": "14k017",
+        "questiontext": "A class that generates inheritance in subclasses is called",
+        "answers": [
+            "parent",
+            "child",
+            "virtual",
+            "abstract"
+        ]
+    },
+    "15k001": {
+        "name": "15k001",
+        "questiontext": "An action performed on one or more values",
+        "answers": [
+            "operation",
+            "operand",
+            "operator",
+            "functor"
+        ]
+    },
+    "15k002": {
+        "name": "15k002",
+        "questiontext": "The value on which the operation is performed",
+        "answers": [
+            "operand",
+            "operation",
+            "operator",
+            "functor"
+        ]
+    },
+    "15k003": {
+        "name": "15k003",
+        "questiontext": "A special language construct that describes an action performed on one or more values",
+        "answers": [
+            "operator",
+            "operation",
+            "operand",
+            "functor"
+        ]
+    },
+    "15k004": {
+        "name": "15k004",
+        "questiontext": "Which of the listed C++ operators cannot be overloaded?",
+        "answers": [
+            "`.` - access to object properties",
+            "`=` - comparison",
+            "`new` - memory allocation",
+            "`*` - pointer dereferencing"
+        ]
+    },
+    "15k005": {
+        "name": "15k005",
+        "questiontext": "Which of the listed C++ access operators can be overloaded?",
+        "answers": [
+            "`->` - access to properties of the object pointer",
+            "`.` - access to object properties",
+            "`::` - access to nested names",
+            "`*` - pointer dereferencing"
+        ]
+    },
+    "15k006": {
+        "name": "15k006",
+        "questiontext": "An operator that takes two operands is called",
+        "answers": [
+            "binary",
+            "unary",
+            "ternary",
+            "composite"
+        ]
+    },
+    "15k007": {
+        "name": "15k007",
+        "questiontext": "An operator that takes one operand is called",
+        "answers": [
+            "unary",
+            "binary",
+            "ternary",
+            "simple"
+        ]
+    },
+    "15k008": {
+        "name": "15k008",
+        "questiontext": "An operator that takes three operands is called",
+        "answers": [
+            "ternary",
+            "unary",
+            "binary",
+            "complex"
+        ]
+    },
+    "15k009": {
+        "name": "15k009",
+        "questiontext": "The assignment operation is denoted by the symbol",
+        "answers": [
+            "`=`",
+            "`==`",
+            "`->`",
+            "`:=`"
+        ]
+    },
+    "15k010": {
+        "name": "15k010",
+        "questiontext": "The comparison operation is denoted by the symbol",
+        "answers": [
+            "`==`",
+            "`=`",
+            "`->`",
+            "`=>`"
+        ]
+    },
+    "15k011": {
+        "name": "15k011",
+        "questiontext": "Which operator is not available in C++",
+        "answers": [
+            "`=>`",
+            "`->`",
+            "`.*`",
+            "`<=`"
+        ]
+    },
+    "15k012": {
+        "name": "15k012",
+        "questiontext": "To define an operation in C++, the keyword is used",
+        "answers": [
+            "`operator`",
+            "`operation`",
+            "`define`",
+            "in C++ operations cannot be redefined"
+        ]
+    },
+    "16k001": {
+        "name": "16k001",
+        "questiontext": "Description of a family of functions with a common algorithm, independent of the parameter type(s)",
+        "answers": [
+            "function template",
+            "class template",
+            "library",
+            "function overloading"
+        ]
+    },
+    "16k002": {
+        "name": "16k002",
+        "questiontext": "Description of a set of data types with the same behavior",
+        "answers": [
+            "class template",
+            "function template",
+            "meta-definition",
+            "macro-definition"
+        ]
+    },
+    "16k003": {
+        "name": "16k003",
+        "questiontext": "Which property is true for a function template",
+        "answers": [
+            "if the function template is not used, it is not included in the final code",
+            "function templates cannot be overloaded",
+            "function templates must always be explicitly instantiated",
+            "the implementation of a template cannot be changed \/ overridden"
+        ]
+    },
+    "16k004": {
+        "name": "16k004",
+        "questiontext": "To declare a function template, the keyword is used",
+        "answers": [
+            "`template`",
+            "`generic`",
+            "`define`",
+            "`meta`"
+        ]
+    },
+    "16k005": {
+        "name": "16k005",
+        "questiontext": "Code generation of a function from a function template for specific parameters is called",
+        "answers": [
+            "instantiation",
+            "compilation",
+            "concretization",
+            "specialization"
+        ]
+    },
+    "16k006": {
+        "name": "16k006",
+        "questiontext": "Changing the behavior \/ implementation of a template for specific data types is called",
+        "answers": [
+            "specialization",
+            "instantiation",
+            "compilation",
+            "concretization"
+        ]
+    },
+    "21k001": {
+        "name": "21k001",
+        "questiontext": "A special object that allows iterating over the elements of a collection.",
+        "answers": [
+            "iterator",
+            "functor",
+            "adapter",
+            "predicate"
+        ]
+    },
+    "21k002": {
+        "name": "21k002",
+        "questiontext": "An object that contains other \\(usually homogeneous\\) objects",
+        "answers": [
+            "container",
+            "iterator",
+            "functor",
+            "predicate"
+        ]
+    },
+    "21k003": {
+        "name": "21k003",
+        "questiontext": "An iterator is",
+        "answers": [
+            "A special object that allows iterating over the elements of a collection",
+            "An object of a class that defines the \"parentheses\" operator",
+            "A function that returns only `true` or `false` values",
+            "an object that contains other \\(usually homogeneous\\) objects"
+        ]
+    },
+    "21k004": {
+        "name": "21k004",
+        "questiontext": "A container is",
+        "answers": [
+            "an object that contains other \\(usually homogeneous\\) objects",
+            "a class that defines the \"parentheses\" operator",
+            "an object designed for data processing",
+            "a class that is at the root of the inheritance tree"
+        ]
+    },
+    "21k005": {
+        "name": "21k005",
+        "questiontext": "Specify the standard sequential containers",
+        "answers": [
+            "`vector`",
+            "`list`",
+            "`deque`",
+            "`array`",
+            "`map`",
+            "`set`",
+            "`multiset`",
+            "`multimap`"
+        ]
+    },
+    "21k006": {
+        "name": "21k006",
+        "questiontext": "Specify the standard associative containers",
+        "answers": [
+            "`vector`",
+            "`list`",
+            "`deque`",
+            "`array`",
+            "`map`",
+            "`set`",
+            "`multiset`",
+            "`multimap`"
+        ]
+    },
+    "21k007": {
+        "name": "21k007",
+        "questiontext": "The size of a container can be found by calling the container method",
+        "answers": [
+            "`size()`",
+            "`count()`",
+            "`length()`",
+            "`getLength()`"
+        ]
+    },
+    "21k008": {
+        "name": "21k008",
+        "questiontext": "To remove an element from a sequential container that the iterator q points to, you need to use the method",
+        "answers": [
+            "`а.erase(q);`",
+            "`а.delete(q);`",
+            "`а.remove(q);`",
+            "`а.clear(q);`"
+        ]
+    },
+    "21k009": {
+        "name": "21k009",
+        "questiontext": "In sequential containers, the expression `a.push_back(t);` is equivalent to",
+        "answers": [
+            "`a.insert(a.end(), t);`",
+            "`a.insert(--a.end(), t);`",
+            "`a.push(a.end(), t);`",
+            "`a.push(--a.end(), t);`"
+        ]
+    },
+    "21k010": {
+        "name": "21k010",
+        "questiontext": "To get an iterator pointing to the first element of the container, you can use the container method",
+        "answers": [
+            "`begin()`",
+            "`front()`",
+            "`pull()`",
+            "`start()`"
+        ]
+    },
+    "21k011": {
+        "name": "21k011",
+        "questiontext": "To get an iterator pointing past the last element of the container, you can use the container method",
+        "answers": [
+            "`end()`",
+            "`back()`",
+            "`push()`",
+            "`final()`"
+        ]
+    },
+    "21k012": {
+        "name": "21k012",
+        "questiontext": "To access the element of the `deque` container with the index `index`, you can use",
+        "answers": [
+            "the container operator `square brackets`",
+            "the container method `at()`",
+            "the container method `get()`",
+            "the `deque` does not have index-based access to elements"
+        ]
+    },
+    "21k013": {
+        "name": "21k013",
+        "questiontext": "To access the element of the `list` container with the index `index`, you can use",
+        "answers": [
+            "the `list` does not have index-based access to elements",
+            "the container operator `round brackets`",
+            "the container method `at()`",
+            "the container method `get()`"
+        ]
+    },
+    "21k014": {
+        "name": "21k014",
+        "questiontext": "Which method is not implemented in the read iterator?",
+        "answers": [
+            "`operator--()`",
+            "`operator++()`",
+            "`operator*()`",
+            "`operator==()`"
+        ]
+    },
+    "21k015": {
+        "name": "21k015",
+        "questiontext": "Which method is not implemented in the write iterator?",
+        "answers": [
+            "`operator--()`",
+            "`operator++()`",
+            "`operator*()`",
+            "`operator==()`"
+        ]
+    },
+    "21k016": {
+        "name": "21k016",
+        "questiontext": "Which method is not implemented in the `vector` container?",
+        "answers": [
+            "`push_front()`",
+            "`push_back()`",
+            "`erase()`",
+            "`operator[]()`"
+        ]
+    },
+    "21k017": {
+        "name": "21k017",
+        "questiontext": "Which method is not implemented in the `list` container?",
+        "answers": [
+            "`operator[]()`",
+            "`push_front()`",
+            "`push_back()`",
+            "`erase()`"
+        ]
+    },
+    "22k001": {
+        "name": "22k001",
+        "questiontext": "The algorithms of the standard library operate on",
+        "answers": [
+            "Intervals `(i, j)` of iterators",
+            "Segments `[i, j]` of iterators",
+            "Half-intervals `[i, j)` of iterators",
+            "Half-intervals `(i, j]` of iterators"
+        ]
+    },
+    "22k002": {
+        "name": "22k002",
+        "questiontext": "In the copying forms of algorithms",
+        "answers": [
+            "the second half-interval is specified in full",
+            "only the starting iterator of the second half-interval is specified",
+            "only the ending iterator of the second half-interval is specified",
+            "there are no such forms \\(first, the required half-interval is copied, and then the algorithm is applied\\)"
+        ]
+    },
+    "22k003": {
+        "name": "22k003",
+        "questiontext": "The algorithm uses a unary functor. A binary functor is defined in the program. Which adapter can be used to convert it to a unary one \\(by binding one of the parameters to a value\\)?",
+        "answers": [
+            "`bind1st`",
+            "`adapter`",
+            "`unary_function`",
+            "`binary_function`",
+            "`unify`"
+        ]
+    },
+    "22k004": {
+        "name": "22k004",
+        "questiontext": "The predicative form of the `algorithm` algorithm will be called",
+        "answers": [
+            "`algorithm_if`",
+            "`algorithm_copy`",
+            "`algorithm_predicate`",
+            "in STL, there are no predicative forms of algorithms"
+        ]
+    },
+    "22k005": {
+        "name": "22k005",
+        "questiontext": "To compare two half-intervals of iterators, you can use",
+        "answers": [
+            "The `equal` algorithm",
+            "The comparison operator",
+            "The `compare` algorithm",
+            "The `verify` algorithm"
+        ]
+    },
+    "22k006": {
+        "name": "22k006",
+        "questiontext": "To copy one half-interval to another, you can use",
+        "answers": [
+            "The `copy` algorithm",
+            "The assignment operator",
+            "The `swap` algorithm",
+            "Special copying versions of algorithms are used for this"
+        ]
+    },
+    "22k007": {
+        "name": "22k007",
+        "questiontext": "The algorithm removes duplicates from the half-interval of iterators",
+        "answers": [
+            "`unique`",
+            "`remove`",
+            "`delete`",
+            "`unify`"
+        ]
+    },
+    "22k008": {
+        "name": "22k008",
+        "questiontext": "To delete elements equal to a certain object from a half-interval of iterators, you can use the algorithm",
+        "answers": [
+            "`remove`",
+            "`unique`",
+            "`delete`",
+            "`unify`"
+        ]
+    },
+    "22k009": {
+        "name": "22k009",
+        "questiontext": "A functor is",
+        "answers": [
+            "An object of a class that defines the \"parentheses\" operator",
+            "A special object that allows iterating over the elements of a collection",
+            "A function that returns only `true` or `false` values",
+            "an object that contains other \\(usually homogeneous\\) objects"
+        ]
+    },
+    "22k010": {
+        "name": "22k010",
+        "questiontext": "An object of a class that defines the \"parentheses\" operator is called",
+        "answers": [
+            "functor",
+            "iterator",
+            "predicate",
+            "adapter"
+        ]
+    },
+    "22k011": {
+        "name": "22k011",
+        "questiontext": "A function that returns only `true` or `false` values is called",
+        "answers": [
+            "predicate",
+            "iterator",
+            "functor",
+            "adapter"
+        ]
+    },
+    "22k012": {
+        "name": "22k012",
+        "questiontext": "To copy objects that meet the condition set by the predicate `p`, from the half-interval `[i, j)` to the half-interval `[k, l)`, the algorithm is used",
+        "answers": [
+            "`copy_if`",
+            "`copy`",
+            "`copy_n`",
+            "`copy_backwards`"
+        ]
+    },
+    "22k013": {
+        "name": "22k013",
+        "questiontext": "To invert the order of elements in the half-interval `[i, j)`, the algorithm is used",
+        "answers": [
+            "`reverse`",
+            "`transform`",
+            "`rotate`",
+            "`swap`"
+        ]
+    },
+    "22k014": {
+        "name": "22k014",
+        "questiontext": "To replace all elements in the half-interval `[i, j)` with the object `t`, the algorithm is used",
+        "answers": [
+            "`replace`",
+            "`replace_if`",
+            "`fill`",
+            "`fill_n`"
+        ]
+    },
+    "22k015": {
+        "name": "22k015",
+        "questiontext": "To generate a sequence of objects in the half-interval `[i, j)`, the algorithm is used",
+        "answers": [
+            "`generate`",
+            "`fill`",
+            "`transform`",
+            "`replace`"
+        ]
+    },
+    "23k001": {
+        "name": "23k001",
+        "questiontext": "A sequence of instructions saved in a file (executable or interpreted) is called",
+        "answers": [
+            "Program",
+            "Process",
+            "Execution flow",
+            "Algorithm"
+        ]
+    },
+    "23k002": {
+        "name": "23k002",
+        "questiontext": "The combination of the executable program and the resources associated with it is called",
+        "answers": [
+            "Process",
+            "Program",
+            "Execution flow",
+            "Algorithm"
+        ]
+    },
+    "23k003": {
+        "name": "23k003",
+        "questiontext": "The smallest unit executable by the operating system is called",
+        "answers": [
+            "Execution flow",
+            "Program",
+            "Process",
+            "Algorithm"
+        ]
+    },
+    "23k004": {
+        "name": "23k004",
+        "questiontext": "In STD C++, work with threads is defined in the header file",
+        "answers": [
+            "`<thread>`",
+            "`<parallel>`",
+            "`<execution>`",
+            "the standard C++ library does not support working with threads"
+        ]
+    },
+    "23k005": {
+        "name": "23k005",
+        "questiontext": "The creation of a thread is defined by",
+        "answers": [
+            "declaring an object of the `std::thread` class",
+            "declaring an object of the `std::process` class",
+            "calling the `std::fork` function",
+            "the standard C++ library does not support working with threads"
+        ]
+    },
+    "23k006": {
+        "name": "23k006",
+        "questiontext": "The problem when the result of program execution in two or more threads depends on their order of execution is called",
+        "answers": [
+            "Race condition",
+            "Deadlock",
+            "Undefined algorithm",
+            "Bug"
+        ]
+    },
+    "23k007": {
+        "name": "23k007",
+        "questiontext": "An operation is called atomic if",
+        "answers": [
+            "it cannot be partially executed by the processor (in several stages)",
+            "it is basic",
+            "it works with atoms",
+            "belongs to the `atomic` class"
+        ]
+    },
+    "23k008": {
+        "name": "23k008",
+        "questiontext": "A mutex is",
+        "answers": [
+            "the simplest object that allows marking all code fragments with access to the same data structure to prevent a race condition",
+            "memory shared between threads",
+            "a function executed by a child thread",
+            "an invariant of a parallel algorithm that keeps the value regardless of the order of execution of several threads"
+        ]
+    },
+    "23k009": {
+        "name": "23k009",
+        "questiontext": "Usually, blocking a mutex object is done by creating an object of type",
+        "answers": [
+            "`std::lock_guard`",
+            "`std::mutex`",
+            "`std::unique_lock`",
+            "`std::atomic`"
+        ]
+    },
+    "23k010": {
+        "name": "23k010",
+        "questiontext": "To determine the number of processor cores, the function is used",
+        "answers": [
+            "`std::thread::hardware_concurrency()`",
+            "`std::thread::core_number()`",
+            "`std::thread::core_count()`",
+            "`std::thread::get_max_threads()`"
+        ]
+    },
+    "23k011": {
+        "name": "23k011",
+        "questiontext": "To wait for the completion of the execution thread `std::thread t`, the method is used",
+        "answers": [
+            "`t.join()`",
+            "`t.wait()`",
+            "`t.detach()`",
+            "`t.pause()`"
+        ]
+    },
+    "23k012": {
+        "name": "23k012",
+        "questiontext": "A thread can be paused for a while using the function",
+        "answers": [
+            "`std::this_thread::sleep_for`",
+            "`std::this_thread::wait`",
+            "`std::this_thread::pause`",
+            "`std::this_thread::wait_for`"
+        ]
+    },
+    "23k013": {
+        "name": "23k013",
+        "questiontext": "A thread can be paused until a certain point in time using the function",
+        "answers": [
+            "`std::this_thread::sleep_until`",
+            "`std::this_thread::wait`",
+            "`std::this_thread::pause`",
+            "`std::this_thread::wait_until`"
+        ]
+    },
+    "23k014": {
+        "name": "23k014",
+        "questiontext": "Detaching the execution thread `std::thread t` from the main thread is done by calling the method",
+        "answers": [
+            "`t.detach()`",
+            "`t.join()`",
+            "`t.fork()`",
+            "`t.separate()`"
+        ]
+    },
+    "24k001": {
+        "name": "24k001",
+        "questiontext": "A lambda expression is",
+        "answers": [
+            "a special syntax for defining functional objects",
+            "a special mathematical expression",
+            "a function whose value is calculated at compile time",
+            "a variable whose value can be changed outside the process"
+        ]
+    },
+    "24k002": {
+        "name": "24k002",
+        "questiontext": "A literal is",
+        "answers": [
+            "an unnamed constant",
+            "a string consisting only of letter symbols",
+            "a variable name",
+            "a variable of character type"
+        ]
+    },
+    "24k003": {
+        "name": "24k003",
+        "questiontext": "A smart pointer is",
+        "answers": [
+            "a wrapper around a pointer to allocated memory, for timely and neat release of allocated memory",
+            "a garbage collector in C++",
+            "a class with an overloaded `*` operator (address access)",
+            "an IDE function for tracking allocated memory, allowing writing safe code"
+        ]
+    },
+    "24k004": {
+        "name": "24k004",
+        "questiontext": "A set of specialized C++ language tools that allows avoiding the costs of copying when creating new objects is called",
+        "answers": [
+            "move semantics",
+            "code optimization",
+            "deep copying",
+            "memory duplication"
+        ]
+    },
+    "24k005": {
+        "name": "24k005",
+        "questiontext": "To work with intervals, algorithms defined in the namespace are used",
+        "answers": [
+            "`std::ranges`",
+            "`std`",
+            "`std::ranges::view`",
+            "`std::view`"
+        ]
+    },
+    "24k006": {
+        "name": "24k006",
+        "questiontext": "The `argc` parameter of the function `int main(int argc, char** argv)` represents",
+        "answers": [
+            "the number of parameters passed to the program at its start",
+            "an array of values of the parameters passed to the program at its start",
+            "the amount of memory allocated by the program at its start",
+            "the number of arguments passed to the program at its compilation"
+        ]
+    },
+    "24k007": {
+        "name": "24k007",
+        "questiontext": "The `argv` parameter of the function `int main(int argc, char** argv)` represents",
+        "answers": [
+            "an array of values of the parameters passed to the program at its start",
+            "the number of parameters passed to the program at its start",
+            "the amount of memory allocated by the program at its start",
+            "the number of arguments passed to the program at its compilation"
+        ]
+    },
+    "24k008": {
+        "name": "24k008",
+        "questiontext": "The value of `argv[0]` of the function `int main(int argc, char** argv)` contains",
+        "answers": [
+            "the name of the program being executed",
+            "the number of parameters passed to the program at its start",
+            "the absolute path to the program being executed",
+            "the value of the first argument passed to the program at its compilation"
+        ]
+    },
+    "24k009": {
+        "name": "24k009",
+        "questiontext": "The syntax for defining a lambda expression in C++",
+        "answers": [
+            "`[<capture>](<parameters>) {<expression>}`",
+            "`(<parameters>)[<capture>] {<expression>}`",
+            "`(<parameters>) {<expression>} [<capture>] -> <type>`",
+            "`(<parameters>) -> <type> {<expression>}`"
+        ]
+    },
+    "24k010": {
+        "name": "24k010",
+        "questiontext": "For text formatting in C++, the function is used",
+        "answers": [
+            "`std::format`",
+            "`std::string::format`",
+            "`std::isstream`",
+            "`std::cout`"
+        ]
+    },
+    "31k001": {
+        "name": "31k001",
+        "questiontext": "A project build consists of",
+        "answers": [
+            "preprocessing, compilation, and actually building the application",
+            "compilation and interpretation of the application",
+            "compilation and debugging of the program",
+            "preprocessing and interpretation"
+        ]
+    },
+    "31k002": {
+        "name": "31k002",
+        "questiontext": "Compiling a C++ file can be done by the program",
+        "answers": [
+            "`gcc`",
+            "`make`",
+            "`compile`",
+            "`build`"
+        ]
+    },
+    "31k003": {
+        "name": "31k003",
+        "questiontext": "Building the file `sample.cpp` into the binary file `sample` is done by the command",
+        "answers": [
+            "`g++ sample.cpp -o sample`",
+            "`g++ sample.cpp -E -o sample`",
+            "`gcc sample.cpp -c -o sample -lstdc++`",
+            "`gcc sample.cpp -S -o sample -lstdc++`"
+        ]
+    },
+    "31k004": {
+        "name": "31k004",
+        "questiontext": "Preprocessing the file `sample.cpp` into the file `sample` is done by the command",
+        "answers": [
+            "`g++ sample.cpp -E -o sample`",
+            "`g++ sample.cpp -o sample`",
+            "`gcc sample.cpp -c -o sample -lstdc++`",
+            "`gcc sample.cpp -S -o sample -lstdc++`"
+        ]
+    },
+    "31k005": {
+        "name": "31k005",
+        "questiontext": "Compiling the file `sample.cpp` into the object file `sample` is done by the command",
+        "answers": [
+            "`gcc sample.cpp -c -o sample -lstdc++`",
+            "`g++ sample.cpp -o sample`",
+            "`g++ sample.cpp -E -o sample`",
+            "`gcc sample.cpp -S -o sample -lstdc++`"
+        ]
+    },
+    "32k001": {
+        "name": "32k001",
+        "questiontext": "Programming libraries are",
+        "answers": [
+            "Archives of programming resources",
+            "A collection of books on programming",
+            "Frameworks for creating programs",
+            "A multitude of classes for reuse"
+        ]
+    },
+    "32k002": {
+        "name": "32k002",
+        "questiontext": "Programming libraries can be",
+        "answers": [
+            "Static",
+            "Dynamic",
+            "Virtual",
+            "Reusable"
+        ]
+    },
+    "32k003": {
+        "name": "32k003",
+        "questiontext": "The header files of the compiler's programming libraries are stored in the folder",
+        "answers": [
+            "`include`",
+            "`lib`",
+            "`bin`",
+            "`library`"
+        ]
+    },
+    "32k004": {
+        "name": "32k004",
+        "questiontext": "The compiler's static programming libraries are stored in the folder",
+        "answers": [
+            "`lib`",
+            "`include`",
+            "`bin`",
+            "`library`"
+        ]
+    },
+    "32k005": {
+        "name": "32k005",
+        "questiontext": "The compiler's dynamic programming libraries are stored in the folder",
+        "answers": [
+            "`bin`",
+            "`include`",
+            "`lib`",
+            "`library`"
+        ]
+    },
+    "32k006": {
+        "name": "32k006",
+        "questiontext": "The API abbreviation stands for:",
+        "answers": [
+            "Application Programming Interface",
+            "Application Portable Interface",
+            "Application Portable Includes",
+            "Automated Programming Interface"
+        ]
+    },
+    "32k007": {
+        "name": "32k007",
+        "questiontext": "To exclude errors of redefinition of resources when including header files multiple times",
+        "answers": [
+            "header files contain declarations enclosed in directives  \n```cpp\n#ifndef CONSTANT_NAME\n#define CONSTANT_NAME\n\/\/…\n#endif\n```",
+            "At the beginning of the header file, the directive is defined\n```cpp\n#pragma one\n```",
+            "Header files are not included several times",
+            "In the project settings, strict error control is disabled"
+        ]
+    },
+    "34k001": {
+        "name": "34k001",
+        "questiontext": "What is an event?",
+        "answers": [
+            "Change of state of an object.",
+            "A signal message that is sent to the information system and can be processed.",
+            "An action that can be performed on an object.",
+            "A set of values describing an object."
+        ]
+    },
+    "34k002": {
+        "name": "34k002",
+        "questiontext": "What is an external event?",
+        "answers": [
+            "An event initiated by external factors.",
+            "An event initiated by the system itself.",
+            "An event that contains additional data.",
+            "An event that contains information about the occurred event."
+        ]
+    },
+    "34k003": {
+        "name": "34k003",
+        "questiontext": "What is an internal event of the system?",
+        "answers": [
+            "An event initiated by the system itself.",
+            "An event initiated by external factors.",
+            "An event that contains additional data.",
+            "An event that contains information about the occurred event."
+        ]
+    },
+    "34k004": {
+        "name": "34k004",
+        "questiontext": "What is an event handler?",
+        "answers": [
+            "A method that is called when a certain event occurs.",
+            "An object that generates events.",
+            "A data structure in which events are stored.",
+            "An algorithm that determines the type of event."
+        ]
+    },
+    "34k005": {
+        "name": "34k005",
+        "questiontext": "The source of an event is",
+        "answers": [
+            "An object that generates an event.",
+            "A method that is called when a certain event occurs.",
+            "A data structure in which events are stored.",
+            "The operating system, only it can generate events."
+        ]
+    },
+    "34k006": {
+        "name": "34k006",
+        "questiontext": "What is an event queue?",
+        "answers": [
+            "A data structure in which events waiting to be processed are stored.",
+            "A method that is called when a certain event occurs.",
+            "A problem that arises when processing multiple events.",
+            "An algorithm for selecting an event handler from a multitude of handlers."
+        ]
+    },
+    "34k007": {
+        "name": "34k007",
+        "questiontext": "What is an event dispatcher?",
+        "answers": [
+            "A program component that defines the connection between an event and an event handler.",
+            "A method that is called when a certain event occurs.",
+            "A data structure in which events are stored.",
+            "An algorithm for determining the type of event."
+        ]
+    },
+    "34k008": {
+        "name": "34k008",
+        "questiontext": "What is an event loop?",
+        "answers": [
+            "The main cycle of the program, which extracts messages from the queue and forwards them for processing.",
+            "A method that is called when a certain event occurs.",
+            "Calling several event handlers for one event.",
+            "Reusing an event."
+        ]
+    },
+    "35k001": {
+        "name": "35k001",
+        "questiontext": "Programming style is",
+        "answers": [
+            "rules for formatting the program code",
+            "rules for documenting the code",
+            "a way to stand out among other programmers",
+            "standard ways of solving programming problems"
+        ]
+    },
+    "35k002": {
+        "name": "35k002",
+        "questiontext": "Select a variable name in `camel case` style",
+        "answers": [
+            "`myVariable`",
+            "`MY_VARIABLE`",
+            "`my_variable`",
+            "`MyVariable`"
+        ]
+    },
+    "35k003": {
+        "name": "35k003",
+        "questiontext": "Select a variable name in `snake case` style",
+        "answers": [
+            "`myVariable`",
+            "`MY_VARIABLE`",
+            "`my_variable`",
+            "`MyVariable`"
+        ]
+    },
+    "35k004": {
+        "name": "35k004",
+        "questiontext": "Select a variable name in `pascal case` style",
+        "answers": [
+            "`myVariable`",
+            "`MY_VARIABLE`",
+            "`my_variable`",
+            "`MyVariable`"
+        ]
+    },
+    "35k005": {
+        "name": "35k005",
+        "questiontext": "Select a variable name in `upper case` style",
+        "answers": [
+            "`myVariable`",
+            "`MY_VARIABLE`",
+            "`my_variable`",
+            "`MyVariable`"
+        ]
+    },
+    "35k006": {
+        "name": "35k006",
+        "questiontext": "Magic constants are",
+        "answers": [
+            "numbers and strings that are used in the code directly",
+            "numbers and strings on which the operation of the program depends",
+            "numbers and strings used in the code for magical operations",
+            "numbers and strings used in the code to improve readability"
+        ]
+    },
+    "35k007": {
+        "name": "35k007",
+        "questiontext": "To separate logical blocks of code, the following are used",
+        "answers": [
+            "empty lines",
+            "comments",
+            "curly braces",
+            "magic numbers"
+        ]
+    },
+    "35k008": {
+        "name": "35k008",
+        "questiontext": "To выделение вложенных блоков кода используются",
+        "answers": [
+            "отступы",
+            "пустые строки",
+            "комментарии",
+            "магические числа"
+        ]
+    },
+    "35k009": {
+        "name": "35k009",
+        "questiontext": "Technical documentation of the project is оформляется в виде",
+        "answers": [
+            "comments to classes, functions, and variables",
+            "comments to lines of code",
+            "comments to blocks of code",
+            "metadata"
+        ]
+    },
+    "35k010": {
+        "name": "35k010",
+        "questiontext": "For generating technical documentation for the program, special tools such as Doxygen are usually used",
+        "answers": [
+            "специальные инструменты, такие как Doxygen",
+            "текстовые редакторы, такие как VS Code",
+            "компиляторы, такие как GCC",
+            "отладчики, такие как GDB"
+        ]
+    },
+    "35k011": {
+        "name": "35k011",
+        "questiontext": "Modular testing is",
+        "answers": [
+            "testing individual modules of the program",
+            "testing the interaction between program modules",
+            "testing the entire program as a whole",
+            "testing the program by the customer"
+        ]
+    },
+    "35k012": {
+        "name": "35k012",
+        "questiontext": "Integration testing is",
+        "answers": [
+            "testing the interaction between program modules",
+            "testing individual modules of the program",
+            "testing the entire program as a whole",
+            "testing the program by the customer"
+        ]
+    },
+    "35k013": {
+        "name": "35k013",
+        "questiontext": "System testing is",
+        "answers": [
+            "testing the entire program as a whole",
+            "testing individual modules of the program",
+            "testing the interaction between program modules",
+            "testing the program by the customer"
+        ]
+    },
+    "35k014": {
+        "name": "35k014",
+        "questiontext": "Acceptance testing is",
+        "answers": [
+            "testing the program by the customer",
+            "testing individual modules of the program",
+            "testing the interaction between program modules",
+            "testing the entire program as a whole"
+        ]
+    },
+    "35k015": {
+        "name": "35k015",
+        "questiontext": "Writing unit tests is",
+        "answers": [
+            "the developer's duty",
+            "the tester's duty",
+            "the customer's duty",
+            "the manager's duty"
+        ]
+    },
+    "35k016": {
+        "name": "35k016",
+        "questiontext": "A programming idiom is called",
+        "answers": [
+            "a standard way to solve a certain problem",
+            "a way to stand out among other programmers",
+            "a way to speed up program execution",
+            "a method of solving a problem that is not recommended for use"
+        ]
+    },
+    "35k017": {
+        "name": "35k017",
+        "questiontext": "The RAII programming idiom consists of",
+        "answers": [
+            "resources should be allocated in the constructor of a wrapper object and freed in the destructor",
+            "when allocating resources, smart pointers should be used",
+            "if a resource cannot be allocated, the program should terminate with an error",
+            "the `new` operator should be used to allocate resources"
+        ]
+    },
+    "35k018": {
+        "name": "35k018",
+        "questiontext": "The Pimpl programming idiom consists of",
+        "answers": [
+            "the implementation of a class is moved to a separate class, an object of which is stored in a smart pointer in the main class",
+            "the implementation of a class is moved to a separate class that inherits from the main class",
+            "objects describing people should contain anonymized data",
+            "objects describing people should contain survey data"
+        ]
+    },
+    "12u009": {
+        "name": "12u009",
+        "questiontext": "Write a program that finds the sum of 2 integers.\n\n## Input data\n\nTwo integers separated by a space.\n\n## Output data\n\nThe sum of the numbers.",
+        "answers": [
+            ""
+        ]
+    },
+    "12u010": {
+        "name": "12u010",
+        "questiontext": "Write a program that finds the product of 2 integers.\n\n## Input data\n\nTwo integers separated by a space.\n\n## Output data\n\nThe product of the numbers.",
+        "answers": [
+            ""
+        ]
+    },
+    "12u011": {
+        "name": "12u011",
+        "questiontext": "Write a program that finds the minimum number of two integers.\n\n## Input data\n\nTwo integers separated by a space.\n\n## Output data\n\nThe minimum of the entered numbers.",
+        "answers": [
+            ""
+        ]
+    },
+    "12u012": {
+        "name": "12u012",
+        "questiontext": "Write a program that finds the sum of numbers from 1 to a positive integer `N`.\n\n## Input data\n\nA positive integer `N`.\n\n## Output data\n\nThe sum of numbers from `1` to `N`.",
+        "answers": [
+            ""
+        ]
+    },
+    "12u013": {
+        "name": "12u013",
+        "questiontext": "Write a program that finds the sum of the digits of a positive integer `N`.\n\n## Input data\n\nA positive integer `N`.\n\n## Output data\n\nThe sum of the digits of the number `N`.",
+        "answers": [
+            ""
+        ]
+    },
+    "12u001": {
+        "name": "12u001",
+        "questiontext": "Which of the variable declaration expressions is correct?",
+        "answers": [
+            "```cpp\nbool isInvalidDeclaration;\n```",
+            "```cpp\nvar YetAnotherValidDeclaration: bool;\n```",
+            "```cpp\nset anotherValidDeclaration -> bool;\n```",
+            "```cpp\nauto isValidDeclaration;\n```"
+        ]
+    },
+    "12u002": {
+        "name": "12u002",
+        "questiontext": "Which of the function `min` definitions is correct?",
+        "answers": [
+            "```cpp\nbool min(std::string, int);\n```",
+            "```cpp\nauto min = function(int, int);\n```",
+            "```cpp\nauto min = new function(int, int);\n```",
+            "```cpp\nfunction min(int, int) -> int;\n```"
+        ]
+    },
+    "12u003": {
+        "name": "12u003",
+        "questiontext": "Select the correct definition of a constant:",
+        "answers": [
+            "```cpp\nconst char MY_VAR = 'a';\n```",
+            "```cpp\nstatic int MY_CONST = 100;\n```",
+            "```cpp\nfinal constant: int = 10;\n```",
+            "```cpp\nconstant final: char = '0';\n```"
+        ]
+    },
+    "12u004": {
+        "name": "12u004",
+        "questiontext": "What will be the result of the following program?\n\n```cpp\n#include <iostream>\nint main() {\n   int a = 10;\n   int b = 11;\n   int &c = b;\n   b += a;\n   std::cout << c;\n   return 0;\n}\n```",
+        "answers": [
+            "21",
+            "10",
+            "11",
+            "There is an error in the program"
+        ]
+    },
+    "12u005": {
+        "name": "12u005",
+        "questiontext": "What will be the result of the following program?\n\n```cpp\n#include <iostream>\nint main() {\n   int a = 3;\n   int b = 2;\n   int &c = b;\n   a += c;\n   std::cout << c;\n   return 0;\n}\n```",
+        "answers": [
+            "2",
+            "3",
+            "5",
+            "There is an error in the program"
+        ]
+    },
+    "12u006": {
+        "name": "12u006",
+        "questiontext": "What will be the result of the following program?\n\n```cpp\n#include <iostream>\nvoid increment(int value) {\n    ++value;\n    std::cout << value << \" \";\n}\nint main() {\n    int a = 5;\n    increment(a);\n    std::cout << a;\n    return 0;\n}\n```",
+        "answers": [
+            "6 5",
+            "6 6",
+            "5 6",
+            "There is an error in the program"
+        ]
+    },
+    "12u007": {
+        "name": "12u007",
+        "questiontext": "What will be the result of the following program?\n\n```cpp\n#include <iostream>\nvoid increment(const int& value) {\n    ++value;\n    std::cout << value << \" \";\n}\nint main() {\n    int a = 3;\n    increment(a);\n    std::cout << a;\n    return 0;\n}\n```",
+        "answers": [
+            "6 6",
+            "6 5",
+            "5 6",
+            "There is an error in the program"
+        ]
+    },
+    "12u008": {
+        "name": "12u008",
+        "questiontext": "What will be the result of the following program?\n\n```cpp\n#include <iostream>\nvoid increment(int& value) {\n    ++value;\n    std::cout << value << \" \";\n}\nint main() {\n    int a = 5;\n    increment(a);\n    std::cout << a;\n    return 0;\n}\n```",
+        "answers": [
+            "6 6",
+            "6 5",
+            "5 6",
+            "There is an error in the program"
+        ]
+    },
+    "13u008": {
+        "name": "13u008",
+        "questiontext": "Define the type `age_t` equivalent to `unsigned char`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13u009": {
+        "name": "13u009",
+        "questiontext": "Define the enumerated type `Color` with values `White`, `Red`, `Green`, `Blue`, `Gray`, `Black`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13u010": {
+        "name": "13u010",
+        "questiontext": "Define the enumerated type `VariableType` with values `Integer`, `Float`, `Boolean`, `Text`, `Array`, `Object`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13u011": {
+        "name": "13u011",
+        "questiontext": "Define the type `distance_t` equivalent to `unsigned long long`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13u012": {
+        "name": "13u012",
+        "questiontext": "Define the structure `Point` with integer fields `x`, `y`, and `z`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13u014": {
+        "name": "13u014",
+        "questiontext": "Define the structure `Man` with string fields `firstname`, `lastname`, and `birthdate`.",
+        "answers": [
+            ""
+        ]
+    },
+    "13u001": {
+        "name": "13u001",
+        "questiontext": "Which of the type alias declarations is correct?",
+        "answers": [
+            "```cpp\ntypedef const char * cstring;\n```",
+            "```cpp\ntypename const char * cstring;\n```",
+            "```cpp\nalias cstring -> const char *;\n```",
+            "```cpp\nlet cstring = const char *;\n```"
+        ]
+    },
+    "13u002": {
+        "name": "13u002",
+        "questiontext": "Which of the enumeration declarations is correct?",
+        "answers": [
+            "```cpp\nenum class State { Initial, Intermediate, Final };\n```",
+            "```cpp\nEnum<int> State { Initial, Intermediate, Final };\n```",
+            "```cpp\nvar state = new Enumeration() [ Initial, Intermediate, Final ];\n```",
+            "```cpp\ndefine Enumeration State [ Initial, Intermediate, Final ];\n```"
+        ]
+    },
+    "13u003": {
+        "name": "13u003",
+        "questiontext": "Given the program:\n```cpp\n#include <iostream>\nstruct Number {\n   int value;\n};\nint main() {\n   Number number;\n   std::cout << number.value;\n   return 0;\n}\n```\nWhat will be the result of the program execution?",
+        "answers": [
+            "`0`",
+            "The program will give a compilation error because there is no default constructor",
+            "`1`",
+            "The program will output a random integer because the `value` field is not initialized"
+        ]
+    },
+    "13u004": {
+        "name": "13u004",
+        "questiontext": "Given the program:\n```cpp\n#include <iostream>\ntypedef char Byte;\nint main() {\n   Byte byte = 'a';\n   byte += 1;\n   std::cout << byte;\n   return 0;\n}\n```\nWhat will be the result of the program execution?",
+        "answers": [
+            "`b`",
+            "`a`",
+            "`98`",
+            "The program will give a compilation error"
+        ]
+    },
+    "13u005": {
+        "name": "13u005",
+        "questiontext": "Given the program:\n```cpp\n#include <iostream>\ntypedef char Byte;\nint main() {\n   Byte byte = 'a';\n   byte += 1;\n   std::cout << (int)byte;\n   return 0;\n}\n```\nWhat will be the result of the program execution?",
+        "answers": [
+            "`98`",
+            "`b`",
+            "`a`",
+            "The program will give a compilation error"
+        ]
+    },
+    "13u006": {
+        "name": "13u006",
+        "questiontext": "Given the program:\n```cpp\n#include <iostream>\ntypedef enum { ONE, TWO, THREE, FOUR, FIVE } Number;\nint main() {\n   Number two = Number::TWO;\n   std::cout << two;\n   return 0;\n}\n```\nWhat will be the result of the program execution?",
+        "answers": [
+            "`1`",
+            "`2`",
+            "`TWO`",
+            "The program will give a compilation error"
+        ]
+    },
+    "13u007": {
+        "name": "13u007",
+        "questiontext": "Given the program:\n```cpp\n#include <iostream>\ntypedef enum { ONE = '1', TWO, THREE, FOUR, FIVE } Number;\nint main() {\n   Number two = Number::TWO;\n   std::cout << two;\n   return 0;\n}\n```\n   What will be the result of the program execution?",
+        "answers": [
+            "`50`",
+            "`2`",
+            "`TWO`",
+            "The program will give a compilation error"
+        ]
+    },
+    "14u001": {
+        "name": "14u001",
+        "questiontext": "Given the following code:\n```cpp\nstruct AbstractClass {\n   AbstractClass() = default;\n   AbstractClass(const AbstractClass&);\n}\n```\nWhat is missing in the class declaration?",
+        "answers": [
+            "destructor",
+            "default constructor",
+            "parameterized constructor",
+            "copy constructor"
+        ]
+    },
+    "14u002": {
+        "name": "14u002",
+        "questiontext": "Given the following code:\n```cpp\nstruct AbstractClass {\n   AbstractClass(const AbstractClass&);\n   ~AbstractClass();\n}\n```\nWhat is missing in the class declaration?",
+        "answers": [
+            "default constructor",
+            "destructor",
+            "parameterized constructor",
+            "copy constructor"
+        ]
+    },
+    "14u003": {
+        "name": "14u003",
+        "questiontext": "Given the following code:\n```cpp\nstruct AbstractClass {\n   AbstractClass();\n   AbstractClass(int, int);\n   ~AbstractClass();\n}\n```\nWhat is missing in the class declaration?",
+        "answers": [
+            "copy constructor",
+            "destructor",
+            "parameterized constructor",
+            "default constructor"
+        ]
+    },
+    "14u004": {
+        "name": "14u004",
+        "questiontext": "What will be displayed on the screen by the following code?\n```cpp\n#include <iostream>\nstruct A{\n   virtual void print() const { std::cout << \"A\"; }\n};\nstruct B:public A{\n   virtual void print() const { std::cout << \"B\"; }\n};\n\nint main(){\n   A* obj = new B;\n   obj->print();\n   return 0;\n}\n```",
+        "answers": [
+            "`B`",
+            "`A`",
+            "the code will give a compilation error",
+            "the result depends on the compiler"
+        ]
+    },
+    "14u005": {
+        "name": "14u005",
+        "questiontext": "What will be displayed on the screen by the following code?\n```cpp\n#include <iostream>\nstruct A{\n   void print() const { std::cout << \"A\"; }\n};\n\nstruct B:public A{\n   void print() const { std::cout << \"B\"; }\n};\n\nint main(){\n   A* obj = new B;\n   obj->print();\n   return 0;\n}\n```",
+        "answers": [
+            "`A`",
+            "`B`",
+            "the code will give a compilation error",
+            "the result depends on the compiler"
+        ]
+    },
+    "14u006": {
+        "name": "14u006",
+        "questiontext": "What will be displayed on the screen by the following code?\n```cpp\n#include <iostream>\nstruct A{\n   void print() const { std::cout << \"A\"; }\n};\n\nstruct B:public A{\n   void print() const { std::cout << \"B\"; }\n};\n\nint main(){\n   B* obj = new A;\n   obj->print();\n   return 0;\n}\n```",
+        "answers": [
+            "the code will give a compilation error",
+            "`A`",
+            "`B`",
+            "the result depends on the compiler"
+        ]
+    },
+    "15u001": {
+        "name": "15u001",
+        "questiontext": "The standard definition of the operator for writing an object `Type` to a stream",
+        "answers": [
+            "```cpp\nstd::ostream& operator << (std::ostream&, const Type&);\n```",
+            "```cpp\nstd::ostream& operator >> (std::ostream&, Type&);\n```",
+            "```cpp\nstd::istream& operator >> (std::istream&, Type&);\n```",
+            "```cpp\nstd::istream& operator << (std::istream&, const Type&);\n```"
+        ]
+    },
+    "15u002": {
+        "name": "15u002",
+        "questiontext": "The standard definition of the operator for reading an object `Type` from a stream",
+        "answers": [
+            "```cpp\nstd::istream& operator >> (std::istream&, Type&);\n```",
+            "```cpp\nstd::ostream& operator >> (std::ostream&, Type&);\n```",
+            "```cpp\nstd::ostream& operator << (std::ostream&, const Type&);\n```",
+            "```cpp\nstd::istream& operator << (std::istream&, const Type&);\n```"
+        ]
+    },
+    "15u003": {
+        "name": "15u003",
+        "questiontext": "Given the program:\n```cpp\n#include <iostream>\nstruct number\n{\n    int value;\n\n    void operator+=(number &param)\n    {\n        param.value += value;\n    }\n};\nint main()\n{\n    number a{1}, b{2};\n    a += b;\n    std::cout << a.value << \" \" << b.value;\n}\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "`1 3`",
+            "`1 2`",
+            "`3 2`",
+            "compilation error"
+        ]
+    },
+    "15u004": {
+        "name": "15u004",
+        "questiontext": "Given the program:\n```cpp\n#include <iostream>\nstruct number\n{\n    int value;\n\n    void operator+=(number param)\n    {\n        param.value += value;\n    }\n};\nint main()\n{\n    number a{1}, b{2};\n    a += b;\n    std::cout << a.value << \" \" << b.value;\n}\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "`1 2`",
+            "`1 3`",
+            "`3 2`",
+            "compilation error"
+        ]
+    },
+    "15u005": {
+        "name": "15u005",
+        "questiontext": "Given the program:\n```cpp\n#include <iostream>\nstruct number\n{\n    int value;\n\n    void operator+=(const number& param)\n    {\n        param.value += value;\n    }\n};\nint main()\n{\n    number a{1}, b{2};\n    a += b;\n    std::cout << a.value << \" \" << b.value;\n}\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "compilation error",
+            "`1 3`",
+            "`3 2`",
+            "`1 2`"
+        ]
+    },
+    "15u006": {
+        "name": "15u006",
+        "questiontext": "Given the program:\n```cpp\n#include <iostream>\nstruct number\n{\n    int value;\n\n    void operator+=(const number& param)\n    {\n        value += param.value;\n    }\n};\nint main()\n{\n    number a{1}, b{2};\n    a += b;\n    std::cout << a.value << \" \" << b.value;\n}\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "`3 2`",
+            "`1 3`",
+            "compilation error",
+            "`1 2`"
+        ]
+    },
+    "15u007": {
+        "name": "15u007",
+        "questiontext": "Given the program:\n```cpp\nclass Segment\n{\n    size_t size;\npublic:\n    void operator -=();\n    void operator +=(const Segment &);\n    void operator *=(const Segment &, const Segment &);\n};\nvoid operator \/=(const Segment &);\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "`+=`",
+            "`-=`",
+            "`*=`",
+            "`\/=`"
+        ]
+    },
+    "16u001": {
+        "name": "16u001",
+        "questiontext": "Given the description of a function template:\n```cpp\ntemplate<class T>\nT product(const T& p1, const T& p2) { return p1 * p2; }\n```\nWhich use of the template is correct?",
+        "answers": [
+            "```cpp\nint a = product(10, 20);\n```",
+            "```cpp\nstd::string p = product(\"10\", \"20\");\n```",
+            "```cpp\ndouble d = product(10, 20.0);\n```",
+            "```cpp\nint a = product<float>(10, 20.0);\n```"
+        ]
+    },
+    "16u002": {
+        "name": "16u002",
+        "questiontext": "The template function \n```cpp\ntemplate<typename TYPE>\nTYPE min1(TYPE a, TYPE b) {\n   return a < b ? a : b;\n}\n```\nwill be correctly defined if for the type `TYPE`",
+        "answers": [
+            "the copy operator and the `<` operator are defined",
+            "the copy operator is defined",
+            "the `<` operator and the `?:` operator are defined",
+            "the copy operator and the `?:` operator are defined"
+        ]
+    },
+    "16u003": {
+        "name": "16u003",
+        "questiontext": "The template function \n```cpp\ntemplate<typename TYPE>\nvoid swap(TYPE* p1, TYPE* p2) {\n   TYPE* tmp = p1;\n   p1 = p2;\n   p2 = tmp;\n}\n```\nwill be correctly defined if for the type `TYPE`",
+        "answers": [
+            "there are no special requirements",
+            "the copy operator is defined",
+            "the copy operator and the `*` operator are defined",
+            "the `*` operator is defined"
+        ]
+    },
+    "16u004": {
+        "name": "16u004",
+        "questiontext": "Given the program\n```cpp\n#include <iostream>\ntemplate <int VAL> struct sum { enum { result = VAL + sum<VAL - 1>::result }; };\ntemplate<> struct sum<0> { enum { result = 0 }; };\n\nint main() {\n   std::cout << sum<5>::result;\n   return 0;\n}\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "15",
+            "5",
+            "0",
+            "the program will give a compilation error"
+        ]
+    },
+    "16u005": {
+        "name": "16u005",
+        "questiontext": "Given the program\n```cpp\n#include <iostream>\ntemplate <int VAL> struct sum { enum { result = sum<VAL - 1>::result }; };\ntemplate<> struct sum<0> { enum { result = 0 }; };\n\nint main() {\n   std::cout << sum<5>::result;\n   return 0;\n}\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "0",
+            "5",
+            "15",
+            "the program will give a compilation error"
+        ]
+    },
+    "16u006": {
+        "name": "16u006",
+        "questiontext": "Given the program\n```cpp\n#include <iostream>\ntemplate <int VAL> struct sum { enum {result = VAL + sum<VAL - 1>::result }; };\n\nint main() {\n   std::cout << sum<5>::result;\n   return 0;\n}\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "the program will give a compilation error",
+            "5",
+            "15",
+            "0"
+        ]
+    },
+    "21u001": {
+        "name": "21u001",
+        "questiontext": "The integer vector `itemNumbers` contains three elements with values `33`, `34`, `35`. What values will `itemNumbers` contain after executing the command\n\n```cpp\nitemNumbers .push_back(32);\n```",
+        "answers": [
+            "<p>32, 34, 35<\/p>",
+            "<p>33, 34, 32<\/p>",
+            "<p>32, 33, 34, 35<\/p>",
+            "<p>33, 34, 35, 32<\/p>"
+        ]
+    },
+    "21u002": {
+        "name": "21u002",
+        "questiontext": "Given the integer vector `x` with elements `4, 7, 3, 0, 8`. What are the final values of x after executing the following code\n\n```cpp\nint i;\nfor (i = 0; i < x.size() - 1; ++i) {\n  x.at(i) = x.at(i + 1);\n}\n```",
+        "answers": [
+            "<p>4, 4, 7, 3, 0<\/p>",
+            "<p>7, 3, 0, 8, 8<\/p>",
+            "<p>7, 3, 0, 8, 4<\/p>",
+            "<p>Error: Invalid vector access<\/p>"
+        ]
+    },
+    "21u003": {
+        "name": "21u003",
+        "questiontext": "Given two integer vectors of the same size `prevValues` and `newValues`. How will the code look like, in which the variable `eq` is assigned the value `1` if the vectors are equal, and `0` otherwise.",
+        "answers": [
+            "```cpp\neq = prevValues == newValues ? 1 : 0;\n```",
+            "```cpp\nprevValues = newValues ? eq = 1 : eq = 0;\n```",
+            "```cpp\nprevValues == newValues ? eq = 0 : eq = 1;\n```",
+            "```cpp\nprevValues != newValues ? eq = 1 : eq = 0;\n```"
+        ]
+    },
+    "21u004": {
+        "name": "21u004",
+        "questiontext": "Given two integer vectors `origList = {2, 3, 4, 5}` and `offsetList = {6, 7, 8, 9}`. which outputs the sum of the second element in `origList` with the corresponding element in `offsetList`?",
+        "answers": [
+            "```cpp\ncin >> origList + offsetList >> endl;\n```",
+            "```cpp\ncin >> origList.at(2) + offsetList.at(2) >> endl;\n```",
+            "```cpp\ncout << origList.at(1) + offsetList.at(1) << endl;\n```",
+            "```cpp\ncout << origList.at(2) + offsetList.at(2) << endl;\n```"
+        ]
+    },
+    "21u005": {
+        "name": "21u005",
+        "questiontext": "What is the final value of the element with index 0?\n\n```cpp\nint Numbers[10];\nnumbers[0] = 35;\nnumbers[1] = 37;\nnumbers[1] = Numbers[0 ] + 4;\n```",
+        "answers": [
+            "<p>0<\/p>",
+            "<p>35<\/p>",
+            "<p>37<\/p>",
+            "<p>39<\/p>"
+        ]
+    },
+    "21u006": {
+        "name": "21u006",
+        "questiontext": "Which of the code snippets correctly swaps the values of the variables `a` and `b`?",
+        "answers": [
+            "```cpp\nint tmp = a;\na = b;\nb = tmp;\n```",
+            "```cpp\na = b;\nb = a;\n```",
+            "```cpp\nint tmp = a;\nb = tmp;\n```",
+            "```cpp\na = b;\nint tmp = a;\nb = tmp;\n```"
+        ]
+    },
+    "22u001": {
+        "name": "22u001",
+        "questiontext": "Write the body of the function `int getSum(std::vector<int> const& v)`, which returns the sum of the elements in the vector `v`.",
+        "answers": [
+            ""
+        ]
+    },
+    "22u002": {
+        "name": "22u002",
+        "questiontext": "Write the body of the function `int getMin(std::vector<int> const& v)`, which returns the minimum value from the vector `v`.",
+        "answers": [
+            ""
+        ]
+    },
+    "22u003": {
+        "name": "22u003",
+        "questiontext": "Write the body of the function `bool hasValue(std::vector<int> const& v, int value)`, which returns `true` if `value` is in the vector `v` and `false` otherwise.",
+        "answers": [
+            ""
+        ]
+    },
+    "22u004": {
+        "name": "22u004",
+        "questiontext": "Write the body of the function `std::vector<int> getUnique(std::vector<int> const& v)`, which returns a vector of unique values from `v`, preserving their order.",
+        "answers": [
+            ""
+        ]
+    },
+    "22u005": {
+        "name": "22u005",
+        "questiontext": "Write the body of the function `std::vector<int> getSorted(std::vector<int> const& v)`, which returns a vector with elements sorted in ascending order from `v`.",
+        "answers": [
+            ""
+        ]
+    },
+    "22u006": {
+        "name": "22u006",
+        "questiontext": "Write the body of the function `std::vector<int> getReversed(std::vector<int> const& v)`, which returns a vector with elements in reverse order from `v`.",
+        "answers": [
+            ""
+        ]
+    },
+    "22u007": {
+        "name": "22u007",
+        "questiontext": "Write the body of the function `std::vector<int> getEven(std::vector<int> const& v)`, which returns a vector with even elements from `v`.",
+        "answers": [
+            ""
+        ]
+    },
+    "22u008": {
+        "name": "22u008",
+        "questiontext": "Write the body of the function `int countValues(std::vector<int> const& v, int value)`, which returns the number of times `value` appears in the vector `v`.",
+        "answers": [
+            ""
+        ]
+    },
+    "24u005": {
+        "name": "24u005",
+        "questiontext": "Define the lambda expression `lambda`, which takes an integer and returns its double value.",
+        "answers": [
+            ""
+        ]
+    },
+    "24u006": {
+        "name": "24u006",
+        "questiontext": "Define the lambda expression `lambda` which takes an integer and returns its absolute value.",
+        "answers": [
+            ""
+        ]
+    },
+    "24u007": {
+        "name": "24u007",
+        "questiontext": "Define the lambda expression `lambda` which takes an integer and returns  `true` if the number is even and `false` otherwise.",
+        "answers": [
+            ""
+        ]
+    },
+    "24u008": {
+        "name": "24u008",
+        "questiontext": "Define the lambda expression `lambda` which takes a `std::string` and returns  `true` if the string is empty and `false` otherwise.",
+        "answers": [
+            ""
+        ]
+    },
+    "24u001": {
+        "name": "24u001",
+        "questiontext": "Given the program\n```cpp\n#include <iostream>\n#include <algorithm>\n#include <vector>\n\nint main() {\n    std::vector<int> numbers {1, 2, 3, 4, 5, 6, 7, 8, 9};\n    std::vector<int> result(numbers.size());\n    std::transform(\n        numbers.begin(),\n        numbers.end(),\n        result.begin(),\n        [](auto const& a){ return a % 2; }\n        );\n    for(auto const& number : numbers) {\n        std::cout << number << \" \";\n    }\n    return 0;\n}\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "`1 2 3 4 5 6 7 8 9`",
+            "`0 1 2 3 4 5 6 7 8`",
+            "`1 0 1 0 1 0 1 0 1`",
+            "`0 1 0 1 0 1 0 1 0`"
+        ]
+    },
+    "24u002": {
+        "name": "24u002",
+        "questiontext": "Given the program\n```cpp\n#include <iostream>\n#include <algorithm>\n#include <vector>\n\nint main() {\n    std::vector<int> numbers {1, 2, 3, 4, 5, 6, 7, 8, 9};\n    std::vector<int> result(numbers.size());\n    std::transform(\n        numbers.begin(),\n        numbers.end(),\n        result.begin(),\n        [](auto const& a){ return a % 2; }\n        );\n    for(auto const& number : result) {\n        std::cout << number << \" \";\n    }\n    return 0;\n}\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "`1 0 1 0 1 0 1 0 1`",
+            "`0 1 2 3 4 5 6 7 8`",
+            "`1 2 3 4 5 6 7 8 9`",
+            "`0 1 0 1 0 1 0 1 0`"
+        ]
+    },
+    "24u003": {
+        "name": "24u003",
+        "questiontext": "Given the program\n```cpp\n#include <iostream>\n#include <algorithm>\n#include <vector>\n\nint main() {\n    std::vector<int> numbers {1, 2, 3, 4, 5, 6, 7, 8, 9};\n    std::vector<int> result(numbers.size());\n    std::transform(\n        numbers.begin(),\n        numbers.end(),\n        result.begin(),\n        [](auto & a){ return ++a; }\n        );\n    for(auto const& number : result) {\n        std::cout << number << \" \";\n    }\n    return 0;\n}\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "`2 3 4 5 6 7 8 9 10`",
+            "`0 1 2 3 4 5 6 7 8`",
+            "`1 2 3 4 5 6 7 8 9`",
+            "compilation error"
+        ]
+    },
+    "24u004": {
+        "name": "24u004",
+        "questiontext": "Given the program\n```cpp\n#include <iostream>\n#include <algorithm>\n#include <vector>\n\nint main() {\n    std::vector<int> numbers {1, 2, 3, 4, 5, 6, 7, 8, 9};\n    std::vector<int> result(numbers.size());\n    std::transform(\n        numbers.begin(),\n        numbers.end(),\n        result.begin(),\n        [](const auto & a){ return ++a; }\n        );\n    for(auto const& number : result) {\n        std::cout << number << \" \";\n    }\n    return 0;\n}\n```\nWhat will be the result of its execution?",
+        "answers": [
+            "compilation error",
+            "`0 1 2 3 4 5 6 7 8`",
+            "`1 2 3 4 5 6 7 8 9`",
+            "`2 3 4 5 6 7 8 9 10`"
+        ]
+    },
+    "31u001": {
+        "name": "31u001",
+        "questiontext": "Given the `makefile` file:\n\n```makefile\nCC = g++\nCXXFLAGS = -O2 -std=c++14\nLDFLAGS = -love\nOUT = file\n\nBINDIR = bin\nSRCDIR = src\nOBJDIR = obj\n\nall: prepare $(OUT)\n\nprepare:\n   mkdir -p $(OBJDIR) $(BINDIR)\n\nclean:\n   rm -f $(OBJDIR)\/*.o $(BINDIR)\/*\n\nhelp:\n   @echo Usage:\n   echo make - build application\n   echo make clean - remove build artifacts\n   echo make help - show help\n\n$(OUT): $(OBJDIR)\/first.o $(OBJDIR)\/second.o $(OBJDIR)\/main.o\n    $(CC) $(OBJDIR)\/first.o $(OBJDIR)\/second.o $(OBJDIR)\/main.o -o $(BINDIR)\/$(OUT) $(LDFLAGS)\n    \n$(OBJDIR)\/first.o:\n    $(CC) -c $(SRCDIR)\/first.cpp $(CXXFLAGS) -o $(OBJDIR)\/first.o\n\n$(OBJDIR)\/second.o:\n    $(CC) -c $(SRCDIR)\/second.cpp $(CXXFLAGS) -o $(OBJDIR)\/second.o\n\n$(OBJDIR)\/main.o:\n    $(CC) -c $(SRCDIR)\/main.cpp $(CXXFLAGS) -o $(OBJDIR)\/main.o\n```\n\nWhat version of the C++ language is used to build the application?",
+        "answers": [
+            "C++14",
+            "C++11",
+            "C++17",
+            "C++20"
+        ]
+    },
+    "31u002": {
+        "name": "31u002",
+        "questiontext": "Given the `makefile` file:\n\n```makefile\nCC = g++\nCXXFLAGS = -O2 -std=c++14\nLDFLAGS = -love\nOUT = file\n\nBINDIR = bin\nSRCDIR = src\nOBJDIR = obj\n\nall: prepare $(OUT)\n\nprepare:\n   mkdir -p $(OBJDIR) $(BINDIR)\n\nclean:\n   rm -f $(OBJDIR)\/*.o $(BINDIR)\/*\n\nhelp:\n   @echo Usage:\n   echo make - build application\n   echo make clean - remove build artifacts\n   echo make help - show help\n\n$(OUT): $(OBJDIR)\/first.o $(OBJDIR)\/second.o $(OBJDIR)\/main.o\n    $(CC) $(OBJDIR)\/first.o $(OBJDIR)\/second.o $(OBJDIR)\/main.o -o $(BINDIR)\/$(OUT) $(LDFLAGS)\n    \n$(OBJDIR)\/first.o:\n    $(CC) -c $(SRCDIR)\/first.cpp $(CXXFLAGS) -o $(OBJDIR)\/first.o\n\n$(OBJDIR)\/second.o:\n    $(CC) -c $(SRCDIR)\/second.cpp $(CXXFLAGS) -o $(OBJDIR)\/second.o\n\n$(OBJDIR)\/main.o:\n    $(CC) -c $(SRCDIR)\/main.cpp $(CXXFLAGS) -o $(OBJDIR)\/main.o\n```\n\nWhat is the name of the library linked when building the application?",
+        "answers": [
+            "libove.a",
+            "libfile.a",
+            "second",
+            "mkdir"
+        ]
+    },
+    "31u003": {
+        "name": "31u003",
+        "questiontext": "Given the `makefile` file:\n\n```makefile\nCC = g++\nCXXFLAGS = -O2 -std=c++14\nLDFLAGS = -love\nOUT = file\n\nBINDIR = bin\nSRCDIR = src\nOBJDIR = obj\n\nall: prepare $(OUT)\n\nprepare:\n   mkdir -p $(OBJDIR) $(BINDIR)\n\nclean:\n   rm -f $(OBJDIR)\/*.o $(BINDIR)\/*\n\nhelp:\n   @echo Usage:\n   echo make - build application\n   echo make clean - remove build artifacts\n   echo make help - show help\n\n$(OUT): $(OBJDIR)\/first.o $(OBJDIR)\/second.o $(OBJDIR)\/main.o\n    $(CC) $(OBJDIR)\/first.o $(OBJDIR)\/second.o $(OBJDIR)\/main.o -o $(BINDIR)\/$(OUT) $(LDFLAGS)\n    \n$(OBJDIR)\/first.o:\n    $(CC) -c $(SRCDIR)\/first.cpp $(CXXFLAGS) -o $(OBJDIR)\/first.o\n\n$(OBJDIR)\/second.o:\n    $(CC) -c $(SRCDIR)\/second.cpp $(CXXFLAGS) -o $(OBJDIR)\/second.o\n\n$(OBJDIR)\/main.o:\n    $(CC) -c $(SRCDIR)\/main.cpp $(CXXFLAGS) -o $(OBJDIR)\/main.o\n```\n\nWhat is the name of the application built by this `makefile`?",
+        "answers": [
+            "file",
+            "love",
+            "main",
+            "app"
+        ]
+    },
+    "31u004": {
+        "name": "31u004",
+        "questiontext": "Given the `makefile` file:\n\n```makefile\nCC = g++\nCXXFLAGS = -O2 -std=c++14\nLDFLAGS = -love\nOUT = file\n\nBINDIR = bin\nSRCDIR = src\nOBJDIR = obj\n\nall: prepare $(OUT)\n\nprepare:\n   mkdir -p $(OBJDIR) $(BINDIR)\n\nclean:\n   rm -f $(OBJDIR)\/*.o $(BINDIR)\/*\n\nhelp:\n   @echo Usage:\n   echo make - build application\n   echo make clean - remove build artifacts\n   echo make help - show help\n\n$(OUT): $(OBJDIR)\/first.o $(OBJDIR)\/second.o $(OBJDIR)\/main.o\n    $(CC) $(OBJDIR)\/first.o $(OBJDIR)\/second.o $(OBJDIR)\/main.o -o $(BINDIR)\/$(OUT) $(LDFLAGS)\n    \n$(OBJDIR)\/first.o:\n    $(CC) -c $(SRCDIR)\/first.cpp $(CXXFLAGS) -o $(OBJDIR)\/first.o\n\n$(OBJDIR)\/second.o:\n    $(CC) -c $(SRCDIR)\/second.cpp $(CXXFLAGS) -o $(OBJDIR)\/second.o\n\n$(OBJDIR)\/main.o:\n    $(CC) -c $(SRCDIR)\/main.cpp $(CXXFLAGS) -o $(OBJDIR)\/main.o\n```\n\nWhat command, according to this file, can clean the project?",
+        "answers": [
+            "make clean",
+            "make prepare",
+            "clean",
+            "rm -f *"
+        ]
+    },
+    "001": {
+        "name": "001",
+        "questiontext": "Given an array __a__ of __N__ integers. Print all even elements.\n\n### Input data\n\nThe first line contains the integer N. The second line contains N integers.\n\n### Output data\n\nIn one line, separated by spaces, print all even elements of the array __a__. If there are no even elements, print `oops`.",
+        "answers": [
+            ""
+        ]
+    },
+    "002": {
+        "name": "002",
+        "questiontext": "Given an array __a__ of __N__ integers and a number __M__. Find the position of the number __M__ in the array.\n\n### Input data\n\nThe first line contains the integer N. The second line contains N integers. The third line contains the integer __M__.\n\n### Output data\n\nPrint the position of the number __M__ in the array __a__. If the number is not in the array, print -1. If the number occurs multiple times, print the smallest index.",
+        "answers": [
+            ""
+        ]
+    },
+    "003": {
+        "name": "003",
+        "questiontext": "Given an array __a__ of __N__ integers. Determine how many elements in this array are strictly greater than their neighbors.\n\n### Input data\n\nThe first line contains the integer N. The second line contains N integers.\n\n### Output data\n\nPrint the number of elements that are strictly greater than their neighbors.",
+        "answers": [
+            ""
+        ]
+    },
+    "004": {
+        "name": "004",
+        "questiontext": "Given an array __a__ of __N__ integers. Cyclically shift the elements of the array to the left by one element (the 0th element becomes the last, the 1st becomes the 0th, ..., that is, the array `{3, 5, 7, 9}` becomes `{5, 7, 9, 3}`).\n\n### Input data\n\nThe first line contains the integer N. The second line contains N integers.\n\n### Output data\n\nPrint the elements of the transformed array in one line, separated by spaces.",
+        "answers": [
+            ""
+        ]
+    },
+    "005": {
+        "name": "005",
+        "questiontext": "Given an array __a__ of __N__ integers and an integer __B__. Remove all occurrences of the number __B__ from the array __a__.\n\n### Input data\n\nThe first line contains the integer __N__. The second line contains __N__ integers. The third line contains the number __B__.\n\n### Output data\n\nPrint the elements of the transformed array in one line, separated by spaces. If there are no elements left in the array after the transformation, print `oops!`.",
+        "answers": [
+            ""
+        ]
+    },
+    "14i001": {
+        "name": "14i001",
+        "questiontext": "Define the class `Base` with the following properties:\n\n- an integer field `field`;\n- a constructor with a parameter that sets the value of the `field` field. \n- a virtual method `ToString` that returns the string value of the `field` field.\n\nDefine a derived class `Derived` for `Base` with the properties:\n\n- a constructor with a parameter that sets the value of the `field` field.\n- an overridden `ToString` method so that it returns a message in the format: `field: <field value>`. For example, with `field = 5` it returns `field: 5`.",
+        "answers": [
+            ""
+        ]
+    },
+    "14i002": {
+        "name": "14i002",
+        "questiontext": "Define the class `Fraction` with the following properties:\n - integer fields `numerator`, `denominator`. \n - a constructor with parameters that sets the value of the `numerator`, `denominator` fields. \n - a virtual method `ToString` that returns the string value `\"<numerator> \/ <denominator>\"`. For example, for `numerator = 2`, `denominator = 3` it returns the value `\"1 \/ 2\"`.\n\nDefine a class `Decimal` with the properties: \n - inherited from `Fraction`\n - a constructor with parameters that sets the value of the `numerator`, `denominator` fields. \n - an overridden `ToString` method so that it returns the representation of the fraction in decimal format. For example, for `numerator = 1`, `denominator = 2` it returns the value `\"0.5\"`.",
+        "answers": [
+            ""
+        ]
+    },
+    "14i003": {
+        "name": "14i003",
+        "questiontext": "Implement the class `Point`, describing a point in space. The class should contain:\n\n- private fields `x`, `y`, `z` of type `double`\n- a default constructor that initializes the fields to zero\n- a constructor that takes three parameters of type `double` and initializes the fields with the passed values\n- a method `DistanceTo` that takes a constant reference to an object of the class `Point` and returns the distance between the current point and the passed one (the formula for the distance between two points in space is $$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$$)\n- constant access methods for the fields `x`, `y`, `z` (`GetX`, `GetY`, `GetZ`)",
+        "answers": [
+            ""
+        ]
+    },
+    "14i004": {
+        "name": "14i004",
+        "questiontext": "Define the abstract class `Shape`, describing a geometric figure. The class should contain:\n\n- a pure virtual method `Area` that returns the area of the figure\n- a pure virtual method `Perimeter` that returns the perimeter of the figure\n\nImplement the derived class `Rectangle`, describing a rectangle. The class should contain:\n\n- private fields `width`, `height` of type `double`\n- a default constructor that initializes the fields to zero\n- a constructor that takes two parameters of type `double` and initializes the fields with the passed values\n- a method `Area` that returns the area of the rectangle\n- a method `Perimeter` that returns the perimeter of the rectangle",
+        "answers": [
+            ""
+        ]
+    },
+    "14i005": {
+        "name": "14i005",
+        "questiontext": "Define the abstract class `Database`, describing a database. The class should contain:\n\n- a pure virtual method `Connect` that establishes a connection to the database\n- a pure virtual method `Query` that takes a query string as a parameter.\n- a pure virtual method `Close` that closes the connection to the database\n\nImplement the derived class `MySQL`, describing a MySQL database. The class should contain:\n\n- a private field `dsn` of type `std::string` that stores the connection string to the database\n- a constructor that takes a connection string and initializes the `dsn` field\n- a method `Connect` that outputs the message __*Connected to MySQL: <dsn\\>*__\n- a method `Query` that outputs the passed query string\n- a method `Close` that outputs the message __*Connection closed*__",
+        "answers": [
+            ""
+        ]
+    },
+    "14i006": {
+        "name": "14i006",
+        "questiontext": "Define the abstract class `GameObject`, describing a game object. The class should contain:\n\n- a pure virtual method `Update` that updates the state of the object\n- a pure virtual method `Render` that renders the object\n\nImplement the derived class `Player`, describing a player. The class should contain:\n\n- a private field `name` of type `std::string` that stores the player's name\n- a constructor that takes the player's name and initializes the `name` field\n- a method `Update` that outputs the message __*Player <name\\> updated*__\n- a method `Render` that outputs the message __*Player <name\\> rendered*__\n- a constant method `GetName` that returns the player's name",
+        "answers": [
+            ""
+        ]
+    },
+    "15i001": {
+        "name": "15i001",
+        "questiontext": "Given the class\n\n```cpp\nclass Date {\n    int _year;\n    int _month;\n    int _day;\npublic:\n    Date(int year = 1900, int month = 1, int day = 1): _year(year), _month(month), _day(day) {}\n    ~Date() {}\n    int GetYear() const { return _year; }\n    int GetMonth() const { return _month; }\n    int GetDay() const { return _day; }\n};\n```\n\nWrite the output operator for the `Date` class that displays the date in the format `y-m-d`.",
+        "answers": [
+            ""
+        ]
+    },
+    "15i002": {
+        "name": "15i002",
+        "questiontext": "Given the class\n\n```cpp\nclass Date {\n    int _year;\n    int _month;\n    int _day;\npublic:\n    Date(int year = 1900, int month = 1, int day = 1): _year(year), _month(month), _day(day) {}\n    ~Date() {}\n    int GetYear() const { return _year; }\n    int GetMonth() const { return _month; }\n    int GetDay() const { return _day; }\n};\n```\n\nWrite the input operator for the `Date` class that reads the date in the format `yyyy-mm-dd`.",
+        "answers": [
+            ""
+        ]
+    },
+    "15i003": {
+        "name": "15i003",
+        "questiontext": "Given the class\n\n```cpp\nstruct Vector\n{\n    int x, y;\n};\n```\n\nWrite the copy and addition operators for the `Vector` class. Addition is performed according to the rules of vector addition in the plane.",
+        "answers": [
+            ""
+        ]
+    },
+    "15i004": {
+        "name": "15i004",
+        "questiontext": "Given the class\n\n```cpp\nclass Point \n{\n    int x, y;\npublic:\n    int X() const { return x; }\n    int Y() const { return y; }\n};\n```\n\nWrite the default, copy, and parameterized constructors for the `Point` class. Define the copy operator for this class.",
+        "answers": [
+            ""
+        ]
+    },
+    "16i001": {
+        "name": "16i001",
+        "questiontext": "Write the function template `print`, which outputs the elements of a container `c` to the screen\nThe values are output in one line, separated by spaces.",
+        "answers": [
+            ""
+        ]
+    },
+    "16i002": {
+        "name": "16i002",
+        "questiontext": "Write the template function `isIncreasing` which checks if the container `c` represents an increasing sequence.\n\nThe template function returns `true` if the container represents an increasing sequence and `false` otherwise.",
+        "answers": [
+            ""
+        ]
+    },
+    "006": {
+        "name": "006",
+        "questiontext": "Given a string _S_. Output the substring _K_ of _N_ characters from string _S_, starting from position _POS_.\n\n_(K = substr(S, POS, N))_\n\n## входные данные\n\nВ первой строке дана строка символов.\nВо второй строке даны натуральные числа _POS_ и _N_, разделеные пробелом.\n\n## выходные данные\n\nВ одной строке вывести _N_ символов строки _S_, начиная с позиции _POS_. \n\n## пример\n\n| INPUT | OUTPUT |\n| ----- | ------ |\n| combination<br \/>5 6 | nation |\n| this is a test<br \/>5 2 | is |",
+        "answers": [
+            ""
+        ]
+    }
+}

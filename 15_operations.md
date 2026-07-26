@@ -23,6 +23,8 @@ Operations can be:
 - _binary_ – with two operands. Example of a binary operation: addition, multiplication, `or`;
 - _ternary_ – with three operands.
 
+An expression is a combination of operators and operands that produces a value. For example, the expression `(A + B) * C` is a combination of the addition operator `+`, the multiplication operator `*`, and the operands `A`, `B`, and `C`. The result of evaluating this expression is the value of the expression.
+
 ## Arithmetic Operations
 
 C/C++ supports the following arithmetic operations:

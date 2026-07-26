@@ -117,6 +117,14 @@ The course is designed for students in the second year of study, specializing in
   - __the object-oriented programming:__ will know the fundamental concepts of object-oriented programming, will be able to elaborate derived data types, will be able to use classes and objects in programming.
   - __meta-programming:__ will know the fundamental concepts of meta-programming, will be able to use function and class templates in programming.
 - __Responsibility and autonomy:__
+  - Writes one-file applications in C++.
+  - Implement algorithms in C++.
+  - Demonstrates the ability to work with the C++ language standard.
+  - Define and use custom data types in C++.
+  - Demonstrates the ability to work with classes and objects in C++.
+  - Understands the principles of object-oriented programming in C++.
+  - Understands the principles of meta-programming in C++.
+  - Demonstrates the ability to work with function and class templates in C++.
 
 ### Theme 2. The С++ standard library
 
@@ -136,6 +144,11 @@ The course is designed for students in the second year of study, specializing in
   - __utilizarea algoritmilor STL:__ Cunoaște conceptele fundamentale ale algoritmilor STL, poate utiliza algoritmii STL în programare.
   - __programarea multi-threading:__ Cunoaște conceptele fundamentale ale programării multi-threading, poate utiliza firele de execuție în programare.
 - __Responsibility and autonomy:__
+  - Understands the principles of the C++ standard library.
+  - Demonstrates the ability to work with iterators and containers in C++.
+  - Demonstrates the ability to work with algorithms in C++.
+  - Demonstrates the ability to work with multi-threading programming in C++.
+  - Demonstrates the ability to work with additional tools of the C++ standard library.
 
 ### Theme 3. Development of С++ applications
 
@@ -154,6 +167,15 @@ The course is designed for students in the second year of study, specializing in
   - __Application testing:__ Tests complex software applications in C++.
   - __Application documentation:__ Documents complex software applications in C++.
 - __Responsibility and autonomy:__
+  - Analyzes task requirements and design a software application in C++.
+  - Organizes the project structure and uses project assembly systems.
+  - Uses external libraries in C++ applications.
+  - Creates programming libraries in C++.
+  - Understands the principles of event-driven programming and applies them in C++ applications.
+  - Writes documentation.
+  - Writes unit tests for C++ applications.
+  - Applies good programming practices.
+  - Demonstrates the ability to work with source code control systems (GIT).
 
 ## V. THE INDIVIDUAL WORK OF THE STUDENT
 
